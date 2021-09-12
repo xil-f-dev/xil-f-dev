@@ -8,7 +8,7 @@ function whoAmI() {
         age: 15,
         job: "Student",
         interest: "Web dev and node.js",
-        IDE: "VSCode"
+        IDE: "VSCode",
         programming_languages: {
             front: ["HTML","CSS","JS"],
             back: ["Node.js", "PHP"],
